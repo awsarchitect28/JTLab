@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: DSPDemo-JupyterLab
+  description: DSPDemo-JupyterLab
+  annotations:
+    github.com/project-slug: abdulkhadar-learning/JupyterLab
+    jenkins.io/job-full-name: Jupiter-pipeline
+  links:
+    - url: https://backstage.io/plugins/
+      title: Backstage Plugins
+      icon: dashboard
+
+spec:
+  type: service
+  owner: Suhas A Patil
+  lifecycle: production
+  system: DartImages
