@@ -1,1 +1,1 @@
-# JTLab
+# JTLab to provision instances.
