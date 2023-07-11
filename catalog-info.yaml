@@ -5,7 +5,7 @@ metadata:
   name: DSPDemo-JupyterLab
   description: DSPDemo-JupyterLab
   annotations:
-    github.com/project-slug: abdulkhadar-learning/JupyterLab
+    github.com/project-slug: awsarchitect28/JTLab
     jenkins.io/job-full-name: Jupiter-pipeline
   links:
     - url: https://backstage.io/plugins/
