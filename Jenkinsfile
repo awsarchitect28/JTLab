@@ -27,7 +27,7 @@ pipeline {
                 script {
                     dir('terraform') {
                         // Get some code from a GitHub repository
-                        git url: 'https://github.com/abdulkhadar-Capgemini/JupyterLab.git', branch: 'main', credentialsId: 'github_creds'
+                        git url: 'https://github.com/awsarchitect28/JTLab.git', branch: 'main', credentialsId: 'github_creds'
                     }
                 }
             }
